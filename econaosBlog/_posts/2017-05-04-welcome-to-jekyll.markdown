@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "The Open Project lifecycle"
-categories: ideas
+title:  "Welcome to Jekyll!"
+date:   2017-05-04 16:25:43 +0200
+categories: jekyll update
 ---
-An open research lifecycle involves sharing of each step of the process, including not only scientific papers but also data (raw and processed), metadata, methods, software. In this way, the process of building on top of the original scientific idea is eased and it profits from a solid and peer reviewd chain of knowledge that leads to new and improved scientific results.
-
-![spirale]({{ site.url }}/assets/spirale.png)
-
+You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
 
@@ -22,6 +20,6 @@ print_hi('Tom')
 
 Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
 
-[jekyll-docs]: http://jekyllrb.com/docs/home
+[jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
